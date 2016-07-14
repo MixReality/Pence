@@ -18,7 +18,7 @@ Stay Tuned ;)
 	
 	git push origin master
 	
-### How to pull new changes from remote repo (automerge)
+### How to pull new changes from remote repo
 	
 	git pull
 	
