@@ -5,9 +5,9 @@ Stay Tuned ;)
 #Developer Notes
 
 ### How to local clone this remote repo
-	```sh
+	
 	git clone https://github.com/MixReality/Pence.git
-	```
+	
 ### How to make local updates (Say to README.md)
 	```sh	
 	echo " x-changes" >> README.md
